@@ -23,5 +23,10 @@ module ReactTailwind
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+
+    # https://claude.ai/share/f19c4dfe-c59f-4f41-8e43-1b11980bfce3
+    config.assets.excluded_paths = [
+      Rails.root.join("app/assets/tailwind")
+    ]
   end
 end

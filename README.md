@@ -29,7 +29,6 @@ npx tsc --init
 ## 注意点・変更点・なんか動画と違う点
 
 - tailswind が v3 から v4 になっていて tailwind.config.js がない([参考](https://techracho.bpsinc.jp/hachi8833/2025_03_31/148957))
-- stylesheets/application.tailswind.css が tailswind/application.css に移動
 - yarn を入れていない場合
   - yarn.lock が生成されない
   - package.json に dependencies の項目がない
