@@ -4,10 +4,10 @@
 
 ## 実行環境
 
-wsl ubuntu
-ruby 3.3.5
-rails 8.0.2
-node 22.15.0
+wsl ubuntu  
+ruby 3.3.5  
+rails 8.0.2  
+node 22.15.0  
 yarn 1.22.22
 
 ## コマンドなど
